@@ -785,7 +785,10 @@ picture img {
   display: flex;
   color: #00ACDA;
 }
-
+.posts img{
+  width: 330px;
+  height: auto;
+}
 .posts p{
   width: 300px;
   margin-left: auto;
@@ -809,7 +812,12 @@ picture img {
     display: flex;
     color: #00ACDA;
   }
-  
+
+  .posts img{
+    width: 700px;
+    height: auto;
+  }
+
   .posts p{
     width: 600px;
     margin-left: auto;
