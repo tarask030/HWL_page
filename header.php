@@ -21,7 +21,7 @@
 
       <div class="hamburger">
         <ul class="main-menu">
-          <li><a href="index.php">START</a></li>
+          <li><a href="https://humanworklogistic.pl/">START</a></li>
           <li class="menu-children">
               <a href="services.php">USŁUGI</a>
               <ul>
@@ -47,7 +47,7 @@
             <div class="logo_header">
               <img src="<?php echo get_stylesheet_directory_uri();?>/logo/logo_header.svg" alt="">
             </div>
-            <li><a class="menu_item_first" href="index.php">START</a></li>
+            <li><a class="menu_item_first" href="https://humanworklogistic.pl/">START</a></li>
 
             <input type = "checkbox" name = "one" id = "one">
             <label for = "one">
